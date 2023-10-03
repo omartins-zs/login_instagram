@@ -46,6 +46,12 @@ body {
     cursor: pointer;
 }
 
+.divider {
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+}
+
 .divider::before,
 .divider::after {
     content: '';
@@ -56,4 +62,11 @@ body {
 .ou {
     margin: 0 15px;
     color: #8E8E8E;
+}
+
+.login-form a {
+    color: #0095F6;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
 }
