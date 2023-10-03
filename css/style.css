@@ -22,3 +22,8 @@ body {
     border-radius: 5px;
     width: 20rem;
 }
+
+.logo {
+    width: 180px;
+    margin-bottom: 20px;
+}
