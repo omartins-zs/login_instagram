@@ -12,3 +12,13 @@ body {
     height: 100vh;
     background-color: #FAFAFA;
 }
+
+.login-container {
+    background-color: #FFF;
+    border: 1px solid #DBDBDB;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 20rem;
+}
