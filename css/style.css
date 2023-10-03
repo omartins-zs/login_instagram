@@ -45,3 +45,15 @@ body {
     font-weight: bold;
     cursor: pointer;
 }
+
+.divider::before,
+.divider::after {
+    content: '';
+    flex: 1;
+    border-top: 1px solid #DBDBDB;
+}
+
+.ou {
+    margin: 0 15px;
+    color: #8E8E8E;
+}
